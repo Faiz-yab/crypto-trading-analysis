@@ -1,0 +1,11 @@
+python-telegram-bot==20.3
+ccxt==4.0.96
+pandas==2.1.1
+numpy==1.26.0
+ta==0.11.0
+python-dotenv==1.0.0
+requests==2.31.0
+talib==0.4.28
+matplotlib==3.8.1
+scipy==1.11.3
+plotly==5.17.0
